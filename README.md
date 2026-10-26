@@ -1,1 +1,2 @@
-# fnrc-2026.2-bsi-pf-grupo1-
+# Projeto Final — Fundamentos de Redes de Computadores (BSI 2026.02)
+## Grupo 1
